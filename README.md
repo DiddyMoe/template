@@ -1,3 +1,13 @@
+
+> ⚠️ **Status: Archived / Deprecated**
+>
+> This repository is no longer maintained.
+>  
+> - Reason: learning exercise
+> - Last maintained: 2023
+> - Use at your own risk
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
